@@ -2,8 +2,8 @@
 This program can tell whether the driver of a vehicle is drowsy or not.  
 Android App link is provided later in this Readme.  
 # Usage for computer execution  
-There are 2 files in this program.  
-Edit line:5 in drowsy.py file according to the path of the dataset that is uploaded.
+Download the dataset <a href="https://drive.google.com/file/d/1sevw_jutzsbQV0Fo4sr9mc__Yvi2PSDP/view?usp=sharing">here</a>.  
+Edit line:5 in drowsy.py file according to the path of the dataset that is downloaded on your computer.
 # Installations  
 This program requires several packages:  
 1. DLib (pip install dlib).  
